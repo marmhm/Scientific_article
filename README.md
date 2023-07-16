@@ -43,11 +43,11 @@ This section is where you interpret and explain the significance of your results
 - Finally, a short paragraph outlining the strengths and limitations of your study. It allows the reviewers to see that you are aware of your own shortcomings. Secondly, it provides an opportunity for you to defend yourself on these points, and state why the supposed limitation may not be so negative after all.
 
 ## The abstract
-The abstract is a short summary of the article in a few sections (usually background, methods, results, and conclusion).
+- The abstract is a short summary of the article in a few sections (usually background, methods, results, and conclusion).
 - It is the quintessential marketing tool for your work
 
 ## The title
-The title should contain keywords to reflect the main issues in your article.
+- The title should contain keywords to reflect the main issues in your article.
 - It should distinguish itself from other articles by specifying how your article contributes to the literature or fills a gap in knowledge
 
 ## Get out your pen and start writing: it is what your work merits!
