@@ -25,11 +25,11 @@ The introduction must get the reviewer **'hooked'**
 - Find a native English speaker to correct your text
 
 ### The methods section
-Write **"what you did"**
-- **"Any choices of unusual methodology for the design of the study should be justified"**
+- Write **"what you did"**
+- Write **" any choices of unusual methodology for the design of the study should be justified"**
 
 ### The results section
-The aim of the results section is to describe what you observed, without commentary or discussion.
+- The aim of the results section is to describe what you observed, without commentary or discussion.
 - A typical paragraph of results should start by recalling the type of analysis (e.g. **'QCA analysis revealed that. . .'**), then detail the results observed, referring to the relevant tables or figures
 
 ### The discussion section
