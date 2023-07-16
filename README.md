@@ -50,4 +50,4 @@ The abstract is a short summary of the article in a few sections (usually backgr
 The title should contain keywords to reflect the main issues in your article.
 - It should distinguish itself from other articles by specifying how your article contributes to the literature or fills a gap in knowledge
 
-**Get out your pen and start writing: it is what your work merits!**
+## Get out your pen and start writing: it is what your work merits!
