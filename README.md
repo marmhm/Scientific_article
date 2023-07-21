@@ -5,7 +5,7 @@ Here I summarize the paper titled "Writing a scientific article: A step-by-step 
 
 ## Getting started: things to do before you write a word
 - Perform an extensive literature review to establish the current state of knowledge on the topic, and ensure the originality of your research
-- **Use a software program for managing references** This is so very important, based on my experience
+- **Use a software program for managing references** (This is so very important, based on my experience)
 - Before starting to write, you should identify the target journal in which you intend to submit. This is for getting to know which format you should use, and how to present your content to the audience of the journal.
 - Have the final results of your study and highlight the most important findings
 
